@@ -1,37 +1,37 @@
 export const data = [
     {   
         id : "1",
-        question: "Quien fue el guitarrista de la banda Pink Floyd",
-        choices: ["Roger Waters", "Slash", "David Gilmour", "Gary moore"],
-        answer: "David Gilmour"
+        question: "¿Cuál es la marca del carro que conducía Walter antes de convertirse en Heisenberg?",
+        choices: ["Nissan Cube", "Pontiac Aztek", "AMC Matador", "Ford El Camino"],
+        answer: "Pontiac Aztek"
     },
 
     {
         id : "2",
-        question: "En que año fue lanzado el disco The Dark Side Of the Moon",
-        choices: ["1984", "1969", "2001", "1973"],
-        answer: "1973"
+        question: "¿Cuánto dinero tenía Walter cuándo se salió del negocio?",
+        choices: ["40 millones", "70 millones", "80 millones", "8 millones"],
+        answer: "80 millones"
     },
 
     {
         id : "3",
-        question: "A que banda pertenció el bajista Pedro Aznar",
-        choices: ["AC/DC", "Serú Giran", "Invisible", "Sui Generis"],
-        answer: "Serú Giran"
+        question: "¿Cuál es el color favorito de Marie (la cuñada de Walter)?",
+        choices: ["Morado", "Rosado", "Azul", "Verde"],
+        answer: "Morado"
     },
 
     {
         id : "4",
-        question: "Que guitarra se usó para grabar Another Brick in the Wall pt2.",
-        choices: ["Fender Stratocaster", "Gibson 335", "Gibson Les Paul Gold Top", "Fender Faim Jaguar"],
-        answer: "Gibson Les Paul Gold Top"
+        question: "¿Qué droga NO consume Jesse en la serie?",
+        choices: ["Metanfetamina", "Marihuana", "Éxtasis", "Heroína"],
+        answer: "Éxtasis"
     },
 
     {
         id : "5",
-        question: "Como se llama el baterista de la actual banda La Grange",
-        choices: ["Ian Avalos", "Pomo Lorenzo", "Nick Mason", "Martin Llopi"],
-        answer: "Ian Avalos"
+        question: "¿Qué comida tira Walter al techo de su casa cuando intenta arreglar la relación con su familia?",
+        choices: ["Pollo", "Hamburguesa", "Pizza", "Burritos"],
+        answer: "Pizza"
     },
 
     

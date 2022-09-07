@@ -27,8 +27,12 @@ export class UI {
 
     showScores(score) {
         const quizEndHtml = `
-        <h1> Resultado </h1>
+        <h1> Resultado! </h1>
         <h2> Tu puntaje es: ${score} </h2>
+        <div class="volver">
+            <a href="./index.html"><button id="volver" class="volver">Volver al inicio</button></a>
+            <a href="./quiz.html"><button id="volver" class="volver">Reintentar Quizz</button></a>
+        </div>
         `
         const elemento = document.querySelector(".quiz");
         elemento.innerHTML = quizEndHtml;
